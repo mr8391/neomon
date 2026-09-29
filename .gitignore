@@ -1,0 +1,17 @@
+# build output
+/neomon
+/neomon.pdb
+*.o
+tests/test
+neomon_test.exe
+
+# test artifacts
+neomon_test_line.txt
+
+# editors and os
+*.swp
+.DS_Store
+
+# not published
+tests/
+tools/
